@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "引用するときは以下の情報をお使いください。"
+title: "犬の健康・飼育ガイド：シェットランド・シープドッグを迎えた方へ"
+type: dataset
+authors:
+  - family-names: "Hayashi"
+    given-names: "Noriyuki"
+    alias: "林 紀行"
+license: CC-BY-4.0
+url: "https://sheltie-guide.org/"
+repository-code: "https://github.com/tcxwn243-debug/sheltie-health-guide-archive"

@@ -1,0 +1,29 @@
+{
+  "title": "犬の健康・飼育ガイド：シェットランド・シープドッグを迎えた方へ（Web版 2026年10月 初版）",
+  "description": "<p>犬の健康・飼育ガイド（シェットランド・シープドッグを迎えた方へ）の保存版。シェットランド・シープドッグ（シェルティ）の飼い主に向けて、日々のケア、予防、変化の観察、受診の目安を、根拠とその確かさとともに示した16章のガイドです。獣医師の診察に代わるものではありません。</p><p>正式サイト：<a href=\"https://sheltie-guide.org/\">https://sheltie-guide.org/</a>（最新版はこちら）。このアーカイブは公開時点の静的HTMLの写しです。</p><p>著者：林 紀行</p><p>写真（assets/hero.jpg）は上野山シェルティから提供を受けたもので、CC BY 4.0 の対象外です。著作権は提供者に帰属し、無断での転載・改変・再利用はできません。</p>",
+  "creators": [
+    {
+      "name": "Hayashi, Noriyuki"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "other",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "jpn",
+  "keywords": [
+    "Shetland Sheepdog",
+    "シェルティ",
+    "dog health",
+    "犬の健康",
+    "veterinary guidance",
+    "owner education"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://sheltie-guide.org/",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-other"
+    }
+  ]
+}
